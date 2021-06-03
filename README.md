@@ -22,19 +22,22 @@
 ---
 
 <h2 align="center">About 📖</h2>
-   
-<p align="center">
-   <br>
-   <br>
-   <br>
-   <a href=""></a>
-</p>
+      
+   <p align="center">
+      Project developed to study Flutter 
+   </p>
 
 ---
 
 <h2 align="center">Preview 📱</h2>
-
-   > * 
+<p align="center">
+      <img src="https://raw.githubusercontent.com/FelipeBis/Dev_Quiz/main/assets/screenshot/Screenshot_1622748847.png" width="300" alt="SplashPage"/>
+      <img src="https://raw.githubusercontent.com/FelipeBis/Dev_Quiz/main/assets/screenshot/Screenshot_1622748850.png" width="300" alt="HomePage"/>
+</p>
+<p align="center">
+      <img src="https://raw.githubusercontent.com/FelipeBis/Dev_Quiz/main/assets/screenshot/Screenshot_1622748864.png" width="300" alt="QuizPage"/>
+      <img src="https://raw.githubusercontent.com/FelipeBis/Dev_Quiz/main/assets/screenshot/Screenshot_1622748871.png" width="300" alt="ResultPage"/>
+</p>
 
 ---
 
