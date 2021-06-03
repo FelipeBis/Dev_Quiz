@@ -60,7 +60,7 @@
    First of all, correctly configure the Flutter development environment on your machine, see https://flutter.dev/docs/get-started/install
    
    - Clone this repository:
-   $ git clone https://github.com/gabriel11447/dev_quiz dev_quiz
+   $ git clone https://github.com/FelipeBis/Dev_Quiz dev_quiz
 
    - Enter in directory:
    $ cd dev_quiz
@@ -74,7 +74,7 @@
 
 ---
 
-   >This project was developed with ❤️ by **[@FelipeBis](https://github.com/FelipeBis/)**, with the instructor **[@GabulDev](https://www.linkedin.com/in/gabuldev/)**, in #NextLevelWeek05 from **[Rocketseat](https://rocketseat.com.br/)**.<br>
+   >This project was developed with ❤️ by **[@FelipeBis](https://www.linkedin.com/in/felipe-bis-3681301b7/)**, with the instructor **[@GabulDev](https://www.linkedin.com/in/gabuldev/)**, in #NextLevelWeek05 from **[Rocketseat](https://rocketseat.com.br/)**.<br>
    If it helped you, give ⭐, contribute, it will help me too 😉
 
 ---
