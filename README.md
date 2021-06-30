@@ -63,7 +63,7 @@
    First of all, correctly configure the Flutter development environment on your machine, see https://flutter.dev/docs/get-started/install
    
    - Clone this repository:
-   $ git clone https://github.com/FelipeBis/Dev_Quiz dev_quiz
+   $ git clone https://github.com/fdbisdev/Dev_Quiz dev_quiz
 
    - Enter in directory:
    $ cd dev_quiz
